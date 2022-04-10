@@ -1,0 +1,23 @@
+{
+  "name": "nonakmemoapp",
+  "version": "1.0.0",
+  "description": "self-made notepad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deadbeef47/NonAkMemoApp.git"
+  },
+  "author": "lmby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deadbeef47/NonAkMemoApp/issues"
+  },
+  "homepage": "https://github.com/deadbeef47/NonAkMemoApp#readme",
+  "devDependencies": {
+    "electron": "^18.0.3"
+  }
+}
